@@ -13,11 +13,11 @@ The Airline API features functions that benefit a small airline. Within the docu
 
 ### API Components: 
 	
-1.	[AirlineResource](/documents/airlineresource)
+1.	[AirlineResource](/docs/airlineresource)
 	
-2.	[AirportAPI](/documents/airportresource)
+2.	[AirportAPI](/docs/airportresource)
 
-3.	[FlightResource](/documents/flightresource)
+3.	[FlightResource](/docs/flightresource)
 
 
 
