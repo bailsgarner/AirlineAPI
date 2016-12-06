@@ -21,4 +21,4 @@ The Airline API features functions that benefit a small airline. Within the docu
 
 
 
-![](/old_vintage_airplane_hd_wallpaper.jpg)
+![]({{site.basurl}}/docs/old_vintage_airplane_hd_wallpaper.jpg)
