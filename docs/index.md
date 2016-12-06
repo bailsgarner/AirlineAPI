@@ -3,9 +3,9 @@ layout: default
 Title: Home
 ---
 
-**Airline API**
+# Airline API
 
-## Project Overview
+### Project Overview
 		 
 This site is dedicated to providing information regarding the development of a program for coordinating small airlines 
 
