@@ -19,11 +19,5 @@ The Airline API features functions that benefit a small airline. Within the docu
 
 3.	[FlightResource](/FlightResource.md)
 
+ 
 
-
- ![](/docs/small-airplane-ca12-010-small)
- 
-  ![](/images/small-airplane-ca12-010-small)
- 
- 
- 
