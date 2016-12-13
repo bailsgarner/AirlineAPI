@@ -21,7 +21,7 @@ The Airline API features functions that benefit a small airline. Within the docu
 
 
 
- ![](/images/small-airplane-ca12-010-small.jpg)
+ ![](AirlineAPI/images/small-airplane-ca12-010-small.jpg)
  
  
  
